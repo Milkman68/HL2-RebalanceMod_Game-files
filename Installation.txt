@@ -1,0 +1,11 @@
+Extract this mod's hl2 folder in your Half-life 2 directory in Steam\steamapps\common\Half-Life 2
+
+When it asks if you want to replace files, agree to replace all of them.
+
+From there start up the game and you're ready to play.
+
+If at any point you wish to unistall it, right click Half-Life 2 in the game list, on the dropdown menu click "Properties...".
+From there click on "LOCAL FILES" then simply click "Verify integrity of game files...". 
+Then it should automatically start removing changed files, disregarding the custom folder.
+
+If changes are still visible after verifying the files, unistall and reinstall Half-Life 2.

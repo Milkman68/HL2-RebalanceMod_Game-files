@@ -14,7 +14,7 @@ Obviously, this contains spoilers for the mod's new features. So if you'd rather
 
 
 While I can't log every single change I've ever made, (mostly because I'm bad at remembering things) I will definitely try my best. Starting with-
-<details><summary>============Visuals:=============</summary>
+<details><summary>===============Visuals:================</summary>
 <p>
 
 #### Muzzleflash's
@@ -41,7 +41,7 @@ Credits ESPECIALLY go out to the ones who actually made the textures, including:
 </p>
 </details>
  
-<details><summary>============Weapons:============</summary>
+<details><summary>===============Weapons:===============</summary>
 <p>
 
 #### All weapons have been given a 12% speed increase in their deploy animations.
@@ -111,7 +111,7 @@ The RPG can now toggle its laser with the RMB. (It's literally in the code, just
 </p>
 </details>
 
-<details><summary>============NPC's:==============</summary>
+<details><summary>===============NPC's:=================</summary>
 <p>
 
 #### Zombies:
@@ -119,7 +119,7 @@ The RPG can now toggle its laser with the RMB. (It's literally in the code, just
 - Standard Zombies are now more tanky and move slightly faster. Their accompanying Headcrab can also now 
 jump-attack the player from the body when at low-health (After playing a little animation that-is).
 
-- Poison Zombies have had their health doubled, from 175 - 250. 
+- Poison Zombies have had their health increased, from 175 - 250. 
 And they also now do more damage than the Standard Zombie.
 
 - The Poison Headcrab's poison attack now only leaves the player with 50% of the health they originally had instead of 100%.
@@ -180,7 +180,7 @@ They also do more damage on-hit.
 </p>
 </details>
 
-<details><summary>============Misc-Gameplay:========</summary>
+<details><summary>===============Misc-Gameplay:===========</summary>
 <p>
 
 - The Quick-Info crosshair now properly supports weapons that use only reserve ammo, or a clip size of 1.

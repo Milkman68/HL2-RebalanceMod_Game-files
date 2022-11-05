@@ -2,4 +2,4 @@ Extract this mod's hl2_rebalance folder in your sourcemod directory in Steam\ste
 
 From there restart steam, start up the game, and you're ready to play!
 
-If at any point you wish to unistall it, delete the hl2_rebalance file in the sourcemod folder. From there restart steam and the mod should be gone.
+If at any point you wish to uninstall it, delete the hl2_rebalance file in the sourcemod folder. From there restart steam and the mod should be gone.

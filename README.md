@@ -10,7 +10,7 @@ The sourcecode can be found [here](https://github.com/mariovct/HL2-RebalanceMod)
 This is the (admittedly rudimentary) changelog for hl2-rebalanced, a mod I've made focused on improving hl2's core gameplay and other neat features.
 
 
-Obviously, this contains spoilers for the mod's new features. So if you'd rather experience it for yourself than you probably shouldn't read this.
+Obviously, this contains spoilers for the mod's features. So if you'd rather experience it for yourself than you probably shouldn't read this.
 
 
 While I can't log every single change I've ever made, (mostly because I'm bad at remembering things) I will definitely try my best. Starting with-

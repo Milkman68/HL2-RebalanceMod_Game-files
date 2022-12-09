@@ -41,6 +41,6 @@ Credits to the new skins especially go out to these people for making them.
 - [VTF Edit](https://valvedev.info/tools/vtfedit/) For Texture editing and compiling.
 - [Notepad++](https://notepad-plus-plus.org/) For ~~making it slightly less painful~~ writing code.
 - GitHub (Don't really need a link for this one.) For general hosting/convenience.
-- [The Entropy Zero discord](https://discord.gg/Y4hWp89) For some playtesting and very generous help from its modding community. Especially when I really didn't know anything about modding Source.
+- [The Entropy Zero Discord](https://discord.gg/Y4hWp89) For some playtesting and very generous help from its modding community. Especially when I really didn't know anything about modding Source.
 - [DK's GRAI Mod](https://www.youtube.com/@dk1480) and [Rubyofblue's Rebalance Mods](https://www.youtube.com/channel/UCZZdDA7zinOMi2rJWLhzseQ) For inspiring me to make my own balance mod in the first place.  
 (Please check out their respective mods when you have the chance, it's seriously impressive some of the stuff they did!)

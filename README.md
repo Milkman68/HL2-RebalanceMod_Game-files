@@ -21,14 +21,15 @@ EG: The Crossbow now needs to hit headshots to insta-kill, and the Pistol now ha
 - Changed NPC behavior:
 While smarter AI is nice, giving NPC's more actual things to do makes things much more interesting. The Strider for example; now has the ability to use that giant Warp-Cannon on its enemies. Making it much more terrifying and dynamic than before.
 
-- Visual Changes: Some effort has also been put into making things look a little nicer. There's now colored Muzzleflashes, and Dynamic lights have been added to some visual effects like explosions and fire. 
+- Visual Changes: Some effort has also been put into making things look a little nicer. There's now colored Muzzleflashes, and Dynamic lights have been added to some visual effects like explosions and fire. Standard Zombies also now have 5 additional skins.  
 
-- Misc Changes: Some miscellaneous things have been added to smoothen out the existing experience. For example; the Quickinfo crosshair now supports single-fire weapons, and standard Zombies now have 5 additional skins.
 
 Credits to the new skins especially go out to these people for making them.  
 
 [Alfa33's Zombie Citizen Outfit](https://gamebanana.com/mods/182304)  
 [Sabre-aN's Headcrab-Zombie Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=206166550)
+
+- Misc Changes: Some miscellaneous things have been added to smoothen out the existing experience. For example; the Quickinfo crosshair now supports single-fire weapons, and it's now possible to shoot while zooming.
 
 - Customizability: Effort has been made to add way more ConVars to the skill.cfg file, (Values in skill.cfg that can be customized). And the .cfg system in HL2 has been changed to have more modularity, including a new system where each difficulty now has a separate skill.cfg file.
 

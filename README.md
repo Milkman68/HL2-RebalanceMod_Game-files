@@ -29,7 +29,7 @@ Credits to the new skins especially go out to these people for making them.
 [Alfa33's Zombie Citizen Outfit](https://gamebanana.com/mods/182304)  
 [Sabre-aN's Headcrab-Zombie Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=206166550)
 
-- Misc Changes: Some miscellaneous things have been added to smoothen out the existing experience. For example; the Quickinfo crosshair now supports single-fire weapons, and it's now possible to shoot while zooming.
+- Misc Changes: Some miscellaneous things have been added to smoothen out the existing experience. For example; the Quickinfo crosshair now supports single-fire weapons, the max FOV has been raised to 120, and it's now possible to shoot while zooming.
 
 - Customizability: Effort has been made to add way more ConVars to the skill.cfg file, (Values in skill.cfg that can be customized). And the .cfg system in HL2 has been changed to have more modularity, including a new system where each difficulty now has a separate skill.cfg file.
 

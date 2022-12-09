@@ -10,7 +10,7 @@ For installation instructions, read installation.txt once the mod has been downl
 #### ============Summary:============
 
 
-This is the (admittedly rudimentary) feature summary for HL2 Rebalanced. A mod I've made with the ultimate goal of improving HL2's core gameplay to provide a more challenging and fun experience. Thing that've been changed include (but are not limited to):
+This is the (admittedly rudimentary) feature summary for HL2 Rebalanced. A mod I've made with the ultimate goal of improving HL2's core gameplay to provide a more challenging and fun experience. ~~FYI, This summary is basically just for listing the mods most important features, not necessarily showcasing what the whole mod has to offer. Which is ***way*** more than just this list.~~ Things that've been changed include (but are not limited to):
 
 - Revised Weapon Balance:
 Most weapons in the player's arsenal have received changes either to not be direct upgrades of others, or have been given more reason to use to prevent them becoming partially obsolete.  
@@ -19,7 +19,7 @@ EG: The Crossbow now needs to hit headshots to insta-kill, and the Pistol now ha
 - Revamped enemy AI: Soldiers and Metrocops in particular have received massive changes to their combat AI to make them less brainless and more interesting to fight. Including a new Elite variant of the standard Metrocop that specializes in deploying Manhacks.
 
 - Changed NPC behavior:
-While smarter AI is nice, giving NPC's more actual things to do makes things much more interesting. The Strider for example; now has the ability to use that giant Warp-Cannon on its enemies. Making it much more terrifying and dynamic than before.
+While smarter AI is nice, giving NPCs more actual things to do makes things much more interesting. The Strider for example; now has the ability to use that giant Warp-Cannon on its enemies. Making it much more terrifying and dynamic than before.
 
 - Visual Changes: Some effort has also been put into making things look a little nicer. There's now colored Muzzleflashes, and Dynamic lights have been added to some visual effects like explosions and fire. Standard Zombies also now have 5 additional skins.  
 

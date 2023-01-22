@@ -1,6 +1,6 @@
 This is the compatibility patch for mounting this mod onto HL2 Mirrored. 
 !DO NOT! put this by itself in the sourcemod directory like a regular mod. Things WILL break if you do that. 
-Hl2 Mirrored is required to be installed before installing this.
+HL2 Mirrored is required to be installed before installing this.
 
 Read the installation instructions carefully for more information:
 

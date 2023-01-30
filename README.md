@@ -44,3 +44,8 @@ Credits to the new skins especially go out to these people for making them.
 - [The Entropy Zero Discord](https://discord.gg/Y4hWp89) For some playtesting and very generous help from its modding community. Especially when I really didn't know anything about modding Source.
 - [DK's GRAI Mod](https://www.youtube.com/@dk1480) and [Rubyofblue's Rebalance Mods](https://www.youtube.com/channel/UCZZdDA7zinOMi2rJWLhzseQ) For inspiring me to make my own balance mod in the first place.  
 (Please check out their respective mods when you have the chance, it's seriously impressive some of the stuff they did!)
+
+#### ============UPDATES:============
+- As of January 21st 2023, HL2-Rebalanced now has full [Half-Life 2 Mirrored](https://www.moddb.com/mods/half-life-2-mirrored) support! 
+New binarys were compiled using code from the [HL2-Mirrored Repository](https://github.com/NvC-DmN-CH/Half-Life-2-Mirrored), meaning that HL2R's changes won't conflict with HL2-Mirrored's.                               
+The mirrored branch can be accessed by clicking on the "main" icon to the left of the "Code" button. Or if you don't feel like doing that here's a link to it [directly](https://github.com/mariovct/HL2-RebalanceMod_Game-files/tree/Mirrored), from there just download the mod and follow the installation instructions.

@@ -70,9 +70,13 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"font"		"Crosshairs"
-				"character"	"Q"
-		}
+				"file"		"sprites/hl2r_crosshairs"
+				"x"			"144"
+				"y"			"48"
+				"width"		"48"
+				"height"	"48"
+				"scale"		"1.5"
+		}	
 		"autoaim"
 		{
 				"file"		"sprites/crosshairs"

@@ -38,7 +38,8 @@ Credits to the new skins especially go out to these people for making them.
 - Valve For making the Source SDK. (Obviously!)
 - [Valve Developer Community](https://developer.valvesoftware.com/wiki/Main_Page) For code snippets and general help/documentation.
 - [Crowbar](https://github.com/ZeqMacaw/Crowbar) For Model editing and compiling.
-- [VTF Edit](https://valvedev.info/tools/vtfedit/) For Texture editing and compiling.
+- [Paint.net](https://www.getpaint.net/index.html) For Texture editing.
+- [VTF Edit](https://valvedev.info/tools/vtfedit/) For Texture compiling.
 - [Notepad++](https://notepad-plus-plus.org/) For ~~making it slightly less painful~~ writing code.
 - GitHub (Don't really need a link for this one.) For general hosting/convenience.
 - [The Entropy Zero Discord](https://discord.gg/Y4hWp89) For some playtesting and very generous help from its modding community. Especially when I really didn't know anything about modding Source.

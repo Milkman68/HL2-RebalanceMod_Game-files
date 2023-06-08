@@ -47,20 +47,21 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"sprites/hl2r_crosshairs"
-				"x"			"192"
-				"y"			"0"
-				"width"		"48"
-				"height"	"48"
-				"scale"		"0.4"
+			"file"		"sprites/hl2r_crosshairs"
+			"x"			"384"
+			"y"			"0"
+			"width"		"96"
+			"height"	"96"
+			"scale"		"0.2"
 		}
 		"autoaim"
 		{
-			"file"		"sprites/crosshairs"
-			"x"			"0"
-			"y"			"48"
-			"width"		"24"
-			"height"	"24"
+			"file"		"sprites/hl2r_crosshairs"
+			"x"			"384"
+			"y"			"0"
+			"width"		"96"
+			"height"	"96"
+			"scale"		"0.2"
 		}
 	}
 }

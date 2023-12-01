@@ -14,7 +14,7 @@ This is the (admittedly rudimentary) feature summary for HL2 Rebalanced. A mod I
 
 - Revised Weapon Balance:
 Most weapons in the player's arsenal have received changes either to not be direct upgrades of others, or have been given more reason to use to prevent them becoming partially obsolete.  
-EG: The Crossbow now needs to hit headshots to insta-kill, and the Pistol now has Burst-Fire capability.
+EG: The Crossbow now needs to be charged over time to deal maximun damage, and the Pistol was buffed to now have Burst-Fire capability.
 
 - Revamped enemy AI: Soldiers and Metrocops in particular have received massive changes to their combat AI to make them less brainless and more interesting to fight. Including a new Elite variant of the standard Metrocop that specializes in deploying Manhacks.
 

@@ -29,7 +29,7 @@ Credits for the new skins go out to these mods in particular:
 
 - Misc Changes: Some miscellaneous things have been added for QOL, to smoothen out the existing experience. Some examples include; the Quickinfo crosshair ammo counter now supporting single-fire weapons, the max FOV being raised to 120, and it's now possible to shoot while zooming.
 
-- Customizability: Effort has been made to add tons of ConVars to the skill.cfg file. And the .cfg system in HL2 has been changed to have more modularity, a new system where each difficulty now has a dedicated .cfg file.
+- Customizability: Effort has been made to add tons of ConVars to the skill.cfg file. And the .cfg system in HL2 has been changed to have more modularity, so each difficulty now has a dedicated .cfg file for fine tuned balance.
 
 
 #### ============Credits:============

@@ -1,4 +1,4 @@
-# HL2-RebalanceMod Game-files
+# HL2 Rebalanced
 The repository for downloading the mod.
 The sourcecode can be found [here](https://github.com/mariovct/HL2-RebalanceMod).
 

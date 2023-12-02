@@ -10,7 +10,7 @@ For installation instructions, read installation.txt once the mod has been downl
 #### ============Summary:============
 
 
-This is the feature summary/description for HL2 Rebalanced. A mod I've made with the ultimate goal of improving HL2's core gameplay to provide a more challenging and fun experience. ~~FYI, This summary is just for listing the mods most important features, not necessarily showcasing what the whole mod has to offer. Which is ***way*** more than just this list.~~ Things that've been changed include (but are not limited to):
+This is the feature summary/description for HL2 Rebalanced. A mod I've made with the ultimate goal of improving HL2's core gameplay to provide a more challenging and fun experience. ~~FYI, This summary is just for listing the mods most important features, not necessarily showcasing what the whole mod has to offer. Which is ***way*** more than just this list.~~ Things that've been changed include(but are not limited to):
 
 - Revised Weapon Balance:
 Most weapons in the player's arsenal have received changes. Either adjusted to not be direct upgrades of others, or have been given more utility to discourage them from becoming obsolete.  

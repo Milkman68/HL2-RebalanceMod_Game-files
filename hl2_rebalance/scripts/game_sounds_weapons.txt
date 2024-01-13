@@ -1179,7 +1179,18 @@
 		"wave"			"weapons/357/357_fire3.wav"
 	}
 }
+"Weapon_357.NPC_Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.7"
+	"soundlevel"		"SNDLVL_GUNFIRE"
+	"pitch"			"88,93"	
 
+	"rndwave"
+	{
+		"wave"			"weapons/357/npc_357_fire.wav"
+	}
+}
 "Weapon_357.Reload"
 {
 	"channel"		"CHAN_ITEM"

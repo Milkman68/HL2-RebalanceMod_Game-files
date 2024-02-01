@@ -1,0 +1,46 @@
+"d3_citadel.breen_hall_background"
+{
+	"dsp"	"2"
+	"playlooping"
+	{
+		"volume"	"0.2"
+		"pitch"		"100"
+		"wave"		"ambient/atmosphere/quiet_cellblock_amb.wav"
+	}
+
+	"playsoundscape"
+	{
+		"name"		"d3_citadel.generic_moody3"
+		"volume"	"0.65"
+	}
+}
+// New citadel soundscape(with no spooky screams).
+"d3_citadel.generic_moody3"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	"0.25"
+		"pitch"		"100"
+		"wave"		"ambient/levels/citadel/citadel_drone_loop6.wav"
+	}
+
+	"playsoundscape"
+	{
+		"name"		"d3_citadel.util_activity"
+		"volume"	"1.0"
+	}
+
+	"playrandom"
+	{
+		"time"		"30, 60"
+		"volume"	"0.1,0.15"
+		"pitch"		"90,110"
+		"soundlevel"	"0"
+		"rndwave"
+		{
+			"wave"	"*ambient/levels/citadel/citadel_ambient_voices1.wav"
+		}
+	}
+}

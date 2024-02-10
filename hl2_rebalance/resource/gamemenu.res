@@ -72,13 +72,6 @@
 	}
 	"12"
 	{
-		"label" "#GameUI_GameMenu_BonusMaps"
-		"command" "OpenBonusMapsDialog"
-		"InGameOrder" "105"
-		"notmulti" "1"
-	}
-	"13"
-	{
 		"label" "#GameUI_GameMenu_Quit"
 		"command" "Quit"
 		"InGameOrder" "110"

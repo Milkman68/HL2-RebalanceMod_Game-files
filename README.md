@@ -2,6 +2,11 @@
 The repository for downloading the mod.
 The Sourcecode can be found [here](https://github.com/mariovct/HL2-RebalanceMod).
 
+#### ============Description:============
+HL2R is a mod that changes the gameplay of Half-Life 2. Altering gunplay, AI, visuals, and general balance not to dramatically change, but enhance HL2 wherever possible. With the ultimate goal of replicating the challenging but fair gameplay of HL1 (which HL2 was very much lacking in my opinion). 
+
+Where enemies are actual threats that *need* to be respected, where all weapons in the player's arsenal have use throughout the whole game instead of some becoming completely obsolete, and where the player has to put more than surface-level amounts of effort and strategy to make it through the default campaign.
+
 #### ============Installation:============
 
 To install the mod, click on the green button on the top right corner that says ***Code*** then click ***Download Zip***  
@@ -11,34 +16,8 @@ From there restart Steam and the mod should appear in your library.
 
 If at any point you wish to uninstall it delete the hl2_rebalance folder, restart Steam and the mod should be gone.
 
-
-#### ============Description:============
-
-
-This is the feature summary/description for HL2 Rebalanced. A mod I've made with the ultimate goal of improving HL2's core gameplay to provide a more challenging and fun experience. ~~FYI, This summary is just for listing the mods most important features, not necessarily showcasing what the whole mod has to offer. Which is ***way*** more than just this list.~~ Things that've been changed include(but are not limited to):
-
-- Revised Weapon Balance:
-Most weapons in the player's arsenal have received changes. Either adjusted to not be direct upgrades of others, or have been given more utility to discourage them from becoming obsolete.  
-EG: The Crossbow now needs to be charged over time to deal maximum damage, and the Pistol was buffed to now have Burst-Fire capability.
-
-- Revamped enemy AI: Soldiers and Metrocops in particular have received huge changes to their combat AI to make them more interesting to fight. The way they take cover has been overhauled to encourage better positioning. And their charging behavior has been completely removed so that they don't kill themselves by running directly into the player.
-
-- Changed NPC behavior:
-NPCs have also been given more baseline abilities/behaviors. The Strider for example; can now use its Warp Cannon outside of scripted sequences and actually use it on its enemies. Making it much more terrifying to fight than before.
-
-- Visual Changes: Effort has also been put into making things look a little nicer. Dynamic lights have been added to some visual effects like explosions and fire. And Standard Zombies now have more visual diversity, as they have been given 5 additional skins that are randomized into existing zombies. 
-
-Credits for the new skins go out to these mods in particular:
-[Alfa33's Zombie Citizen Outfit](https://gamebanana.com/mods/182304)
-[Sabre-aN's Headcrab-Zombie Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=206166550)
-
-- Misc Changes: Some miscellaneous things have been added for QOL, to smoothen out the existing experience. Some examples include; the Quickinfo crosshair ammo counter now supporting single-fire weapons, the max FOV being raised to 120, and it's now possible to shoot while zooming.
-
-- Customizability: Effort has been made to add tons of ConVars to the skill.cfg file. And the .cfg system in HL2 has been changed to have more modularity, so each difficulty now has a dedicated .cfg file for fine tuned balance.
-
-
 #### ============Credits:============
-- Valve For making the Source SDK. (Obviously!)
+- Valve For making the Source SDK.
 - [Valve Developer Community](https://developer.valvesoftware.com/wiki/Main_Page) For code snippets and general help/documentation.
 - [Crowbar](https://github.com/ZeqMacaw/Crowbar) For Model editing and compiling.
 - [Paint.net](https://www.getpaint.net/index.html) For Texture editing.
@@ -47,6 +26,7 @@ Credits for the new skins go out to these mods in particular:
 - [Microsoft Visual Studios](https://visualstudio.microsoft.com) For code compiling/error handling.
 - GitHub (Don't really need a link for this one.) For general hosting/convenience.
 - [The Entropy Zero Discord](https://discord.gg/Y4hWp89) For some playtesting and very generous help from its modding community. Especially when I was just starting out and didn't know anything about modding Source.
+- [Alfa33's Zombie Citizen Outfit](https://gamebanana.com/mods/182304) and [Sabre-aN's Headcrab-Zombie Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=206166550) for Zombie texture variety.
 - [DK's GRAI Mod](https://www.youtube.com/@dk1480) and [Rubyofblue's Rebalance Mods](https://www.youtube.com/channel/UCZZdDA7zinOMi2rJWLhzseQ) For inspiring me to make my own balance mod in the first place.  
 (Please check out their respective mods when you have the chance, it's seriously impressive the stuff they did!)
 

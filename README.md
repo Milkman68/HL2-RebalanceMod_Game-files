@@ -11,7 +11,7 @@ From there restart Steam and the mod should appear in your library.
 
 If at any point you wish to uninstall it delete the hl2_rebalance folder, restart Steam and the mod should be gone.
 
-#### ============Summary:============
+#### ============Description:============
 
 This is the HL2R Mirrored repository/download. For the full description/feature summary of HL2R, go [here](https://github.com/mariovct/HL2-RebalanceMod_Game-files/tree/main).          
 If you want to see the original Half-Life 2 Mirrored mod, it can also be checked out [here](https://www.moddb.com/mods/half-life-2-mirrored).

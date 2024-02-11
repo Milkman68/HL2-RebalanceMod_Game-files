@@ -1,13 +1,18 @@
 # HL2 Rebalanced
 The repository for downloading the mod.
-The sourcecode can be found [here](https://github.com/mariovct/HL2-RebalanceMod).
+The Sourcecode can be found [here](https://github.com/mariovct/HL2-RebalanceMod).
 
-#### ============Download:============
+#### ============Installation:============
 
-To download the mod, click on the green button on the top right corner that says "Code" then click "Download Zip"  
-For installation instructions, read installation.txt once the mod has been downloaded.
+To install the mod, click on the green button on the top right corner that says ***Code*** then click ***Download Zip***  
+Once the zip is done downloading, open it and extract the mod's hl2_rebalance folder into your sourcemods directory in ***Steam/steamapps/sourcemods/***
 
-#### ============Summary:============
+From there restart Steam and the mod should appear in your library.
+
+If at any point you wish to uninstall it delete the hl2_rebalance folder, restart Steam and the mod should be gone.
+
+
+#### ============Description:============
 
 
 This is the feature summary/description for HL2 Rebalanced. A mod I've made with the ultimate goal of improving HL2's core gameplay to provide a more challenging and fun experience. ~~FYI, This summary is just for listing the mods most important features, not necessarily showcasing what the whole mod has to offer. Which is ***way*** more than just this list.~~ Things that've been changed include(but are not limited to):

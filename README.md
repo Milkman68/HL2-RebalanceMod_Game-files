@@ -2,10 +2,13 @@
 The repository for downloading the mirrored version of HL2R.
 The sourcecode can be found [here](https://github.com/mariovct/HL2-RebalanceMod/tree/Mirrored).
 
-#### ============Download:============
+============Installation:============
+To install the mod, click on the green button on the top right corner that says Code then click Download Zip
+Once the zip is done downloading, open it and extract the mod's hl2_rebalance_mirrored folder into your sourcemods directory in Steam/steamapps/sourcemods/
 
-To download the mod, click on the green button on the top right corner that says "Code" then click "Download Zip"  
-For installation instructions, read installation.txt once the mod has been downloaded.
+From there restart Steam and the mod should appear in your library.
+
+If at any point you wish to uninstall it delete the hl2_rebalance_mirrored folder, restart Steam and the mod should be gone.
 
 #### ============Summary:============
 

@@ -17,7 +17,7 @@ HL2R is a mod that changes the gameplay and balance of Half-Life 2. Featuring:
 - ~~S.L.A.M.~~
   
 
-This mod is not intended to radically change HL2's gameplay, but to improve and enhance it wherever possible, with the ultimate goal of replicating the simple challenging but fair gameplay of HL1 (which HL2 was very much lacking in my opinion). 
+This mod is not intended to radically change HL2's gameplay, but to improve and enhance it wherever possible. With the ultimate goal of replicating the simple challenging but fair gameplay of HL1 (which HL2 was very much lacking in my opinion). 
 
 It aims to make enemies actual threats that should be respected, give all weapons in the player's arsenal use throughout the whole game instead of some becoming completely obsolete, and make the player put more than surface-level amounts of effort and strategy into making it through the default campaign.
 

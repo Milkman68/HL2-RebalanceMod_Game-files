@@ -2,7 +2,7 @@
 The repository for downloading the mod.
 The Sourcecode can be found [here](https://github.com/mariovct/HL2-RebalanceMod).
 
-#### ============Description:============
+### ============Description:============
 HL2R is a mod that changes the gameplay and balance of Half-Life 2. Featuring: 
 
 - Revamped Gunplay
@@ -18,7 +18,7 @@ Not to dramatically change, but to improve and enhance HL2 wherever possible. Wi
 
 Where enemies are actual threats that should be respected, where all weapons in the player's arsenal have use throughout the whole game instead of some becoming completely obsolete, and where the player has to put more than surface-level amounts of effort and strategy to make it through the default campaign.
 
-#### ============Installation:============
+## ============Installation:============
 
 To install the mod, click on the green button on the top right corner that says ***Code*** then click ***Download Zip***  
 Once the zip is done downloading, open it and extract the mod's hl2_rebalance folder into your sourcemods directory in ***Steam/steamapps/sourcemods/***
@@ -27,7 +27,7 @@ From there restart Steam and the mod should appear in your library.
 
 If at any point you wish to uninstall it delete the hl2_rebalance folder, restart Steam and the mod should be gone.
 
-#### ============Credits:============
+## ============Credits:============
 - Valve For making the Source SDK.
 - [Valve Developer Community](https://developer.valvesoftware.com/wiki/Main_Page) For code snippets and general help/documentation.
 - [Crowbar](https://github.com/ZeqMacaw/Crowbar) For Model editing and compiling.
@@ -41,7 +41,7 @@ If at any point you wish to uninstall it delete the hl2_rebalance folder, restar
 - [DK's GRAI Mod](https://www.youtube.com/@dk1480) and [Rubyofblue's Rebalance Mods](https://www.youtube.com/channel/UCZZdDA7zinOMi2rJWLhzseQ) For inspiring me to make my own balance mod in the first place.  
 (Please check out their respective mods when you have the chance, it's seriously impressive the stuff they did!)
 
-#### ============UPDATES:============
+## ============UPDATES:============
 - As of January 21st 2023, HL2-Rebalanced now has full [Half-Life 2 Mirrored](https://www.moddb.com/mods/half-life-2-mirrored) support! 
 New binarys were compiled using code from the [HL2-Mirrored Repository](https://github.com/NvC-DmN-CH/Half-Life-2-Mirrored), meaning that HL2R's changes won't conflict with HL2-Mirrored's!                               
 The mirrored branch can be accessed by clicking on the "main" icon to the left of the "Code" button. Or if you don't feel like doing that here's a link to it [directly.](https://github.com/mariovct/HL2-RebalanceMod_Game-files/tree/Mirrored) From there just download the mod and follow the installation instructions.

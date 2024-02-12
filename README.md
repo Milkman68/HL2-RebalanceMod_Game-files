@@ -6,11 +6,14 @@ The Sourcecode can be found [here](https://github.com/mariovct/HL2-RebalanceMod)
 HL2R is a mod that changes the gameplay and balance of Half-Life 2. Featuring: 
 
 - Revamped Gunplay
-- Smarter AI/NPC's
+- Revamped balance.
+- Harder AI/NPC's
 - Small additions and Bug fixes
 - Visual effects
 - Grenade Cooking
 - Options menu with optional challenges.
+- Episode 2 style flashlight (optional).
+- New more configurable skill.cfg files.
 - ~~S.L.A.M~~
   
 

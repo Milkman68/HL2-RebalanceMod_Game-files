@@ -3,9 +3,20 @@ The repository for downloading the mod.
 The Sourcecode can be found [here](https://github.com/mariovct/HL2-RebalanceMod).
 
 #### ============Description:============
-HL2R is a mod that changes the gameplay of Half-Life 2. Altering gunplay, AI, visuals, and general balance not to dramatically change, but enhance HL2 wherever possible. With the ultimate goal of replicating the challenging but fair gameplay of HL1 (which HL2 was very much lacking in my opinion). 
+HL2R is a mod that changes the gameplay and balance of Half-Life 2. Featuring: 
 
-Where enemies are actual threats that *need* to be respected, where all weapons in the player's arsenal have use throughout the whole game instead of some becoming completely obsolete, and where the player has to put more than surface-level amounts of effort and strategy to make it through the default campaign.
+- Revamped Gunplay
+- Smarter AI/NPC's
+- Small additions and Bug fixes
+- Visual effects
+- Grenade Cooking
+- Options menu with optional challenges.
+- ~~S.L.A.M~~
+  
+
+Not to dramatically change, but to improve and enhance HL2 wherever possible. With the ultimate goal of replicating the simple challenging but fair gameplay of HL1 (which HL2 was very much lacking in my opinion). 
+
+Where enemies are actual threats that should be respected, where all weapons in the player's arsenal have use throughout the whole game instead of some becoming completely obsolete, and where the player has to put more than surface-level amounts of effort and strategy to make it through the default campaign.
 
 #### ============Installation:============
 

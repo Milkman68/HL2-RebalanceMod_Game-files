@@ -19,7 +19,7 @@ HL2R is a mod that changes the gameplay and balance of Half-Life 2. Featuring:
 
 This mod is not intended to radically change HL2's gameplay, but to improve and enhance it wherever possible, with the ultimate goal of replicating the simple challenging but fair gameplay of HL1 (which HL2 was very much lacking in my opinion). 
 
-Where enemies are actual threats that should be respected, where all weapons in the player's arsenal have use throughout the whole game instead of some becoming completely obsolete, and where the player has to put more than surface-level amounts of effort and strategy to make it through the default campaign.
+It aims to make enemies actual threats that should be respected, give all weapons in the player's arsenal use throughout the whole game instead of some becoming completely obsolete, and make the player put more than surface-level amounts of effort and strategy into making it through the default campaign.
 
 ## ============Installation:============
 

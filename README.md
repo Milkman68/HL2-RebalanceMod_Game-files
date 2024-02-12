@@ -2,7 +2,7 @@
 The repository for downloading the mod.
 The Sourcecode can be found [here](https://github.com/mariovct/HL2-RebalanceMod).
 
-### ============Description:============
+## ============Description:============
 HL2R is a mod that changes the gameplay and balance of Half-Life 2. Featuring: 
 
 - Revamped Gunplay

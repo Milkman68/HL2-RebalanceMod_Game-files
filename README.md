@@ -11,7 +11,7 @@ HL2R is a mod that changes the gameplay and balance of Half-Life 2. Featuring:
 - Small additions and Bug fixes.
 - Visual effects.
 - Grenade Cooking.
-- Options menu with optional challenges.
+- Options menu with 7 optional challenges.
 - Episode 2 style flashlight (optional).
 - New more configurable skill.cfg files.
 - ~~S.L.A.M.~~

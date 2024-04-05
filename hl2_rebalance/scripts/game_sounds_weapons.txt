@@ -1324,7 +1324,7 @@
 
 	"soundlevel"	"SNDLVL_NORM"
 
-	"wave"		"weapons/crossbow/bolt_charge_loop.wav"
+	"wave"		"ambient/machines/electric_machine.wav"
 	
 }
 // *************

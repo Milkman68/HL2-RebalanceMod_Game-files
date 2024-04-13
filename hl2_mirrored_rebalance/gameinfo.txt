@@ -14,7 +14,7 @@
 			game+mod+mod_write+default_write_path		|gameinfo_path|.
 			gamebin				|gameinfo_path|bin
 			game+mod			|gameinfo_path|.
-			game+mod			|gameinfo_path|./hl2r_mirrored_misc.vpk
+			game+mod			|gameinfo_path|./hl2r_mirrored_misc_dir.vpk
 
 			game_lv				|all_source_engine_paths|hl2/hl2_lv.vpk
 			game				|all_source_engine_paths|hl2/hl2_english.vpk

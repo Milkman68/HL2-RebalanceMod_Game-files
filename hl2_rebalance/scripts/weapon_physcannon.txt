@@ -59,19 +59,19 @@ WeaponData
 		{
 				"file"		"sprites/hl2r_crosshairs"
 				"x"			"384"
-				"y"			"96"
+				"y"			"384"
 				"width"		"96"
 				"height"	"96"
-				"scale"		"0.75"
+				"scale"		"0.94"
 		}
 		"autoaim"
 		{
 			"file"		"sprites/hl2r_crosshairs"
 			"x"			"384"
-			"y"			"96"
+			"y"			"384"
 			"width"		"96"
 			"height"	"96"
-			"scale"		"0.75"
+			"scale"		"0.94"
 		}
 	}
 }

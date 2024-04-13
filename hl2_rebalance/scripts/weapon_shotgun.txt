@@ -60,7 +60,7 @@ WeaponData
 		"crosshair"
 		{
 				"file"		"sprites/hl2r_crosshairs"
-				"x"			"192"
+				"x"			"288"
 				"y"			"96"
 				"width"		"96"
 				"height"	"96"
@@ -69,7 +69,7 @@ WeaponData
 		"autoaim"
 		{
 				"file"		"sprites/hl2r_crosshairs"
-				"x"			"192"
+				"x"			"288"
 				"y"			"96"
 				"width"		"96"
 				"height"	"96"

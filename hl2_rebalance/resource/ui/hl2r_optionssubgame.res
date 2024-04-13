@@ -25,44 +25,10 @@
 ////////////////////////
 	// Page Dividers
 ////////////////////////
-	// "DividerLeft"
-	// {
-		// "ControlName"		"Divider"
-		// "fieldName"		"DividerLeft"
-		// "xpos"		"20"
-		// "ypos"		"70"
-		// "wide"		"3"
-		// "tall"		"580"
-		// "autoResize"		"0"
-		// "pinCorner"		"0"
-		// "RoundedCorners"		"15"
-		// "pin_corner_to_sibling"		"0"
-		// "pin_to_sibling_corner"		"0"
-		// "visible"		"1"
-		// "enabled"		"0"
-		// "tabPosition"		"2"
-	// }
-	// "DividerRight"
-	// {
-		// "ControlName"		"Divider"
-		// "fieldName"		"DividerRight"
-		// "xpos"		"340"
-		// "ypos"		"70"
-		// "wide"		"3"
-		// "tall"		"580"
-		// "autoResize"		"0"
-		// "pinCorner"		"0"
-		// "RoundedCorners"		"15"
-		// "pin_corner_to_sibling"		"0"
-		// "pin_to_sibling_corner"		"0"
-		// "visible"		"1"
-		// "enabled"		"0"
-		// "tabPosition"		"2"
-	// }
-	"DividerTop"
+	"Divider"
 	{
 		"ControlName"		"Divider"
-		"fieldName"		"DividerTop"
+		"fieldName"		"Divider"
 		"xpos"		"10"
 		"ypos"		"60"
 		"wide"		"366"
@@ -76,23 +42,6 @@
 		"enabled"		"0"
 		"tabPosition"		"2"
 	}
-	// "DividerBottom"
-	// {
-		// "ControlName"		"Divider"
-		// "fieldName"		"DividerBottom"
-		// "xpos"		"20"
-		// "ypos"		"647"
-		// "wide"		"320"
-		// "tall"		"3"
-		// "autoResize"		"0"
-		// "pinCorner"		"0"
-		// "RoundedCorners"		"15"
-		// "pin_corner_to_sibling"		"0"
-		// "pin_to_sibling_corner"		"0"
-		// "visible"		"1"
-		// "enabled"		"0"
-		// "tabPosition"		"2"
-	// }
 ////////////////////////
 	// Toggle Button
 ////////////////////////

@@ -41,7 +41,7 @@ If at any point you wish to uninstall it delete the hl2_rebalance folder, restar
 - GitHub (Don't really need a link for this one.) For general hosting/convenience.
 - [The Entropy Zero Discord](https://discord.gg/Y4hWp89) For some playtesting and very generous help from its modding community. Especially when I was just starting out and didn't know anything about modding Source.
 - [Sabre-aN's Headcrab-Zombie Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=206166550) for some of the implemented zombie skins.
-- [Dark Interval](https://www.moddb.com/mods/dark-interval) for giving me permission to recreate their chargeable crossbow for HL2R.
+- The [Dark Interval](https://www.moddb.com/mods/dark-interval) team for giving me permission to recreate their chargeable crossbow for HL2R.
 - Finally [DK's GRAI Mod](https://www.youtube.com/@dk1480) and [Rubyofblue's Rebalance Mods](https://www.youtube.com/channel/UCZZdDA7zinOMi2rJWLhzseQ) For inspiring me to make my own balance mod in the first place.  
 (Please check out their respective mods when you have the chance, it's seriously impressive the stuff they did!)
 

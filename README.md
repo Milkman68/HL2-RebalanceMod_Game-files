@@ -6,20 +6,19 @@ The Sourcecode can be found [here](https://github.com/mariovct/HL2-RebalanceMod)
 HL2R is a mod that changes the gameplay and balance of Half-Life 2. Featuring: 
 
 - Revamped Gunplay.
-- Revamped balance.
-- Harder AI/NPC's.
-- Small additions and Bug fixes.
-- Visual effects.
-- Grenade Cooking.
-- Options menu with 7 optional challenges.
-- Episode 2 style flashlight (optional).
-- New more configurable skill.cfg files.
+- Smarter and more varied enemies.
+- Various small additions and Bug fixes.
+- Visual effects and dynamic lights.
+- Grenade Cooking and other QOL additions.
+- New challenges menu with 7 original challenges.
+- Episode 2 style flashlight and other toggleable features.
+- A more modular skill.cfg system.
 - ~~S.L.A.M.~~
   
 
-This mod is not intended to radically change HL2's gameplay, but to improve and enhance it wherever possible. With the ultimate goal of replicating the simple challenging but fair gameplay of HL1 (which HL2 was very much lacking in my opinion). 
+This mod is not intended to radically change HL2's gameplay, but to improve and enhance it wherever possible. With the ultimate goal of replicating the simple challenging but fair gameplay of HL1, which HL2 was very much lacking in my opinion. 
 
-It aims to make enemies actual threats that should be respected, give all weapons in the player's arsenal use throughout the whole game instead of some becoming completely obsolete, and make the player put more than surface-level amounts of effort and strategy into making it through the default campaign.
+It aims to make enemies actual threats that should be respected, give all weapons in the player's arsenal use throughout the whole game instead of some becoming completely obsolete, and force the player put more than surface-level amounts of effort and strategy into making it through the default campaign.
 
 ## ============Installation:============
 

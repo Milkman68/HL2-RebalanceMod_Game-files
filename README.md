@@ -13,7 +13,7 @@ HL2R is a mod that changes the gameplay and balance of Half-Life 2. Featuring:
 - New challenges menu with 7 original challenges.
 - Episode 2 style flashlight and other toggleable features.
 - A more modular skill.cfg system.
-- Separate version with [Half-Life 2 Mirrored](https://www.moddb.com/mods/half-life-2-mirrored) merged into HL2R. Allowing for full compatibility with eachother.
+- Separate version that merges [Half-Life 2 Mirrored](https://www.moddb.com/mods/half-life-2-mirrored) into HL2R. Allowing for both mods to be played together.
 - ~~S.L.A.M.~~
   
 

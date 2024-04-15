@@ -13,6 +13,7 @@ HL2R is a mod that changes the gameplay and balance of Half-Life 2. Featuring:
 - New challenges menu with 7 original challenges.
 - Episode 2 style flashlight and other toggleable features.
 - A more modular skill.cfg system.
+- Separate version with [Half-Life 2 Mirrored](https://www.moddb.com/mods/half-life-2-mirrored) merged into HL2R. Allowing for full compatibility with eachother.
 - ~~S.L.A.M.~~
   
 
@@ -27,7 +28,8 @@ Once the zip is done downloading, open it and extract the mod's hl2_rebalance fo
 
 From there restart Steam and the mod should appear in your library.
 
-If at any point you wish to uninstall it delete the hl2_rebalance folder, restart Steam and the mod should be gone.
+### Mirrored version:
+The HL2 Mirrored patch for HL2R can be accessed by clicking on the ***main*** icon on the top-left of the page and switching to the ***Mirrored*** branch. Or if you don't feel like doing that here's a link to it [directly](https://github.com/mariovct/HL2-RebalanceMod_Game-files/tree/Mirrored). From there just download the Mirrored version and follow the standard installation instructions.
 
 ## ============Credits:============
 - Valve For making the Source SDK.
@@ -43,8 +45,3 @@ If at any point you wish to uninstall it delete the hl2_rebalance folder, restar
 - The [Dark Interval](https://www.moddb.com/mods/dark-interval) team for giving me permission to recreate their chargeable crossbow for HL2R.
 - Finally [DK's GRAI Mod](https://www.youtube.com/@dk1480) and [Rubyofblue's Rebalance Mods](https://www.youtube.com/channel/UCZZdDA7zinOMi2rJWLhzseQ) For inspiring me to make my own balance mod in the first place.  
 (Please check out their respective mods when you have the chance, it's seriously impressive the stuff they did!)
-
-## ============UPDATES:============
-- As of January 21st 2023, HL2-Rebalanced now has full [Half-Life 2 Mirrored](https://www.moddb.com/mods/half-life-2-mirrored) support! 
-New binarys were compiled using code from the [HL2-Mirrored Repository](https://github.com/NvC-DmN-CH/Half-Life-2-Mirrored), meaning that HL2R's changes won't conflict with HL2-Mirrored's!                               
-The mirrored branch can be accessed by clicking on the "main" icon to the left of the "Code" button. Or if you don't feel like doing that here's a link to it [directly.](https://github.com/mariovct/HL2-RebalanceMod_Game-files/tree/Mirrored) From there just download the mod and follow the installation instructions.

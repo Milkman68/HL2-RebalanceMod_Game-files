@@ -1327,6 +1327,15 @@
 	"wave"		"ambient/machines/electric_machine.wav"
 	
 }
+"Weapon_Crossbow.BoltPlace"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"0.2"
+	"pitch"			"60,75"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"		"physics/metal\metal_grenade_impact_hard2.wav"
+}
 // *************
 // BASE GRENADES
 

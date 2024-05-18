@@ -24,9 +24,9 @@ It aims to make enemies actual threats that should be respected, give all weapon
 ## ============Installation:============
 
 To install the mod, click on the green button on the top right corner that says ***Code*** then click ***Download Zip***  
-Once the zip is done downloading, open it and extract the mod's hl2_rebalance folder into your sourcemods directory in ***Steam/steamapps/sourcemods/***
+Once the zip is done downloading, open it and extract just the files into your sourcemods directory in ***Steam/steamapps/sourcemods/***
 
-From there restart Steam and the mod should appear in your library.
+From there restart Steam and ***Half-Life 2 (Reblanced)*** as well as the episodes should appear in your library.
 
 ### Mirrored version:
 The HL2 Mirrored patch for HL2R can be accessed by clicking on the ***main*** icon on the top-left of the page and switching to the ***Mirrored*** branch. Or if you don't feel like doing that here's a link to it [directly](https://github.com/mariovct/HL2-RebalanceMod_Game-files/tree/Mirrored). From there just download the Mirrored version and follow the standard installation instructions.

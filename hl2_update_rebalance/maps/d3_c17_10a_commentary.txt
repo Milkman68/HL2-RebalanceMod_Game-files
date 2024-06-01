@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Placeholder_Death_From_Above"
+		"origin" "-5638.3100585938 6915.0297851563 49.1500015259"
+		"angles" "0 125.4599990845 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\null.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" ""
+		"synopsis" ""
+	}
+}

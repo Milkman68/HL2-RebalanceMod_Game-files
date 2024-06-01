@@ -1,0 +1,33 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Chopper Fight"
+		"origin" "3991.7299804688 -54.5499992371 201.3600006104"
+		"angles" "0 -174.5899963379 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\036__wh__final_chopper_battle.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Jared 'ProJared' Knabenbauer"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "All Knowing Vort"
+		"origin" "11215.5400390625 1285.7299804688 -261.2300109863"
+		"angles" "0 146.6300048828 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\037__wh__all_knowing_vort.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ross Scott"
+		"synopsis" ""
+	}
+}

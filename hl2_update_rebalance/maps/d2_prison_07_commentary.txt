@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "HL2 Turrets"
+		"origin" "-554.2199707031 -3396.830078125 -110.6999969482"
+		"angles" "0 -137.6699981689 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\087__ent__turret_battle.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ian 'Brutalmoose' MacLeod"
+		"synopsis" ""
+	}
+}

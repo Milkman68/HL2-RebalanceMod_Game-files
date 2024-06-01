@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Antlions Command"
+		"origin" "-3368.6799316406 3490.8200683594 33.8199996948"
+		"angles" "0 175.0500030518 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\079__np__where_antlions_first_come_out_of_the_floor.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ross Scott"
+		"synopsis" ""
+	}
+}

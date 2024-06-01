@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Combine Forces"
+		"origin" "2473.0900878906 -762.5200195313 287.3999938965"
+		"angles" "0 95.3700027466 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\098__ff__inside_combine _nexus_building.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "James 'Caddicarus' Caddick"
+		"synopsis" ""
+	}
+}

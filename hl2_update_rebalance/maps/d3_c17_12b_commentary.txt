@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Combine NPC'S "
+		"origin" "-5093.75 -358.2900085449 -154.3300018311"
+		"angles" "0 -146.9700012207 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\100__ff__strider_tunnel.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Mick 'Ricepirate' Lauer"
+		"synopsis" ""
+	}
+}

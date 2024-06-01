@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "placeholder_Rooftop_Battle"
+		"origin" "398.6900024414 7636.8198242188 287.450012207"
+		"angles" "0 -72.1100006104 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\null.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" ""
+		"synopsis" ""
+	}
+}

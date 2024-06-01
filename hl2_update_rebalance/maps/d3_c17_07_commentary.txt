@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "HL2 Music Creation"
+		"origin" "5600.0400390625 1411.1500244141 39.3300018311"
+		"angles" "0 4.0399999619 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\096__acone__generator_plaza_before_losing_alyx_yet_again.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Jared 'ProJared' Knabenbauer"
+		"synopsis" ""
+	}
+}

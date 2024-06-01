@@ -1,0 +1,33 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Coast Crane"
+		"origin" "4501.509765625 -1683.9000244141 708.0300292969"
+		"angles" "0 89.2699966431 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\065__h17__drivable_crane.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Wallid 'Balrog The Master' Kanaan"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Gunship Takedown"
+		"origin" "2497.830078125 3637.3601074219 1064.6500244141"
+		"angles" "0 28.4500007629 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\064__h17__gunship_takedown_after_crane_puzzle.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Mick 'Ricepirate' Lauer"
+		"synopsis" ""
+	}
+}

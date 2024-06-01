@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Stalker Concept"
+		"origin" "550.0700073242 -426.6900024414 -2825.9599609375"
+		"angles" "0 0.5799999833 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\106__ob__on_pod_ride_when_seeing_stalkers.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Mick 'Ricepirate' Lauer"
+		"synopsis" ""
+	}
+}

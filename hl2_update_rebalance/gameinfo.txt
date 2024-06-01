@@ -1,0 +1,36 @@
+"GameInfo"
+{
+	game 		"Half-Life 2: Update (Rebalanced)"
+	title 		"HALF-LIFE'"
+	type		singleplayer_only
+	supportsvr	1
+
+	icon  "resource/icon"
+	FileSystem
+	{
+		SteamAppId				290930 // Mount hl2 Update
+		SearchPaths
+		{
+			// Inherit already existing episodic-rebalanced content.
+			gamebin				|gameinfo_path|../hl2_rebalance/bin
+			game+mod			|gameinfo_path|../hl2_rebalance/hl2r_misc.vpk
+			
+			game+mod+mod_write+default_write_path		|gameinfo_path|.
+			game+mod			|gameinfo_path|.
+			game+mod			|gameinfo_path|./custom/*
+
+			game_lv				|all_source_engine_paths|hl2/hl2_lv.vpk
+			game				|all_source_engine_paths|hl2/hl2_english.vpk
+			game				|all_source_engine_paths|hl2/hl2_pak.vpk
+			game				|all_source_engine_paths|hl2/hl2_textures.vpk
+			game				|all_source_engine_paths|hl2/hl2_sound_vo_english.vpk
+			game				|all_source_engine_paths|hl2/hl2_sound_misc.vpk
+			game				|all_source_engine_paths|hl2/hl2_misc.vpk
+			game				|all_source_engine_paths|hl2/resource
+			platform			|all_source_engine_paths|platform/platform_misc.vpk
+
+			game				|all_source_engine_paths|hl2
+			platform			|all_source_engine_paths|platform
+		}
+	}
+}

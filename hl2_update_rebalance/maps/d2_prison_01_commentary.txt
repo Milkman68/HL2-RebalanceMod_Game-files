@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "prison_placeholder"
+		"origin" "4100.08984375 -5636.25 804.6599731445"
+		"angles" "0 139.9700012207 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\null.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" ""
+		"synopsis" ""
+	}
+}

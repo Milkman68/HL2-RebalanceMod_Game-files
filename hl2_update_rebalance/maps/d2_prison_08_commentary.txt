@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Combine Teleport"
+		"origin" "211.0299987793 82.7699966431 1054.0600585938"
+		"angles" "0 -48.3300018311 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\088__ent__combine_teleport_room.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Mick 'Ricepirate' Lauer"
+		"synopsis" ""
+	}
+}

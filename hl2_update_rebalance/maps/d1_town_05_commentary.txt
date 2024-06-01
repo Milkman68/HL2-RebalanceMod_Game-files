@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Combine Soldier"
+		"origin" "-4139.7299804688 7906.1000976563 976.8400268555"
+		"angles" "0 -52.9900016785 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\060__rvnhlm__when_first_meeting_combine_soliders.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Jared 'ProJared' Knabenbauer"
+		"synopsis" ""
+	}
+}

@@ -1,0 +1,33 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "HL2 Caballs"
+		"origin" "-5392.2299804688 -12241.6298828125 743.7399902344"
+		"angles" "0 134.6600036621 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\066__h17__houses_after_first_rollermines.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Jared 'ProJared' Knabenbauer"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "GasStation"
+		"origin" "-3689.1000976563 -4192.830078125 1308.6800537109"
+		"angles" "0 102.0899963379 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\067__h17__gas_station.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ross Scott"
+		"synopsis" ""
+	}
+}

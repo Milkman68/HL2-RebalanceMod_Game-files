@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Eyes animation"
+		"origin" "-6703.08984375 -1327.8100585938 29.7600002289"
+		"angles" "0 13.1199998856 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\089__ent__kliners_lab_revisit.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Wallid 'Balrog The Master' Kanaan"
+		"synopsis" ""
+	}
+}

@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "node3_placeholder"
+		"origin" "4982.5400390625 4656.0498046875 43.8899993896"
+		"angles" "0 7.1500000954 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\null.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" ""
+		"synopsis" ""
+	}
+}

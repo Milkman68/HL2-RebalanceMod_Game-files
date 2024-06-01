@@ -1,0 +1,33 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Headcrab Canister"
+		"origin" "4221.8598632813 1495.6500244141 -423.7600097656"
+		"angles" "0 -50.1399993896 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\029__rk__resistance_camp_with_head_crab_canister.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Wallid 'Balrog The Master' Kanaan"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "The Airboat"
+		"origin" "7199.7700195313 1526.6300048828 -422.9400024414"
+		"angles" "0 -62.6899986267 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\030__rk__next_to_airboat_when_you_first_get_it.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Jared 'ProJared' Knabenbauer"
+		"synopsis" ""
+	}
+}

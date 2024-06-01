@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Western Style Concept"
+		"origin" "2010.5100097656 -6650.3500976563 -2449.8200683594"
+		"angles" "0 58.4000015259 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\097__acone__combine_tech_on_old_buildings.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ross Scott"
+		"synopsis" ""
+	}
+}

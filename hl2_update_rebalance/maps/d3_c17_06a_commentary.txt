@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Level Theme"
+		"origin" "3097.1599121094 3671.8200683594 -292.0899963379"
+		"angles" "0 100.8799972534 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\095__acone__toxic_tunnel.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Wallid 'Balrog The Master' Kanaan"
+		"synopsis" ""
+	}
+}

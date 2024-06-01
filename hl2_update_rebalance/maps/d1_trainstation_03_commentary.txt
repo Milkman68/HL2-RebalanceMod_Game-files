@@ -1,0 +1,63 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Appartaments Hallway"
+		"origin" "-4985.9702148438 -4667.5200195313 43.7299995422"
+		"angles" "0 16.5599994659 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\010__pi__inside_apartment_hallway.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Wallid 'Balrog The Master' Kanaan"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "TV Breencast"
+		"origin" "-4427.8999023438 -4833.2001953125 287.7699890137"
+		"angles" "0 -106.0400009155 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\011__pi__tv_inside_tenement_blocks_playing_breencast.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Jared 'ProJared' Knabenbauer"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Consoling Couple"
+		"origin" "-4151.009765625 -4784.9702148438 284.2300109863"
+		"angles" "0 -98.7900009155 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\012__pi__consoling_couple.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ross Scott"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Block Raid"
+		"origin" "-3668.669921875 -4587.830078125 295.3299865723"
+		"angles" "0 17.8199996948 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\013__pi__tenement_block_right_before_raid.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "James 'Caddicarus' Caddick"
+		"synopsis" ""
+	}
+}

@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Combine Soldier Nova"
+		"origin" "-5061.1899414063 1826.1400146484 700.1699829102"
+		"angles" "0 97.8899993896 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\080__st__broken_hallway_with_flares_before_nova_prospekt.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "James 'Caddicarus' Caddick"
+		"synopsis" ""
+	}
+}

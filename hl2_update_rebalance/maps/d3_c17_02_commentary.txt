@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Dog Fighting"
+		"origin" "-5505.8999023438 -5654.5698242188 27.1299991608"
+		"angles" "0 22.4599990845 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\090__acone__dog_fighting_apc.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Jared 'ProJared' Knabenbauer"
+		"synopsis" ""
+	}
+}

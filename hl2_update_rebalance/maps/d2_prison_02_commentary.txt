@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Nova Prospekt"
+		"origin" "-1111.7399902344 3121.7900390625 427.0299987793"
+		"angles" "0 -75.7099990845 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\081__np__right_inside_nova_prospekt.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ian 'Brutalmoose' MacLeod"
+		"synopsis" ""
+	}
+}

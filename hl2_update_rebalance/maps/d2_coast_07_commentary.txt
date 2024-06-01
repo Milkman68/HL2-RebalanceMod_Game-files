@@ -1,0 +1,33 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Coast Houses"
+		"origin" "1162.4499511719 6429.7099609375 1319.0300292969"
+		"angles" "0 -96.5899963379 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\070__h17__town_next_to_the_bridge.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Mick 'Ricepirate' Lauer"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Coast"
+		"origin" "1347.6899414063 3523.3999023438 1237.7099609375"
+		"angles" "0 -82 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\068__h17__on_traintracks_before_the_bridge.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "James 'Caddicarus' Caddick"
+		"synopsis" ""
+	}
+}

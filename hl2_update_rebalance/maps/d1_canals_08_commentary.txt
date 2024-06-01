@@ -1,0 +1,33 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Airboat View"
+		"origin" "-433.1499938965 -290.3999938965 -548.2100219727"
+		"angles" "0 -108.0899963379 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\032__wh__outside_entrance_to_chopper_shipping_yard.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "James 'Caddicarus' Caddick"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Hunter Chopper"
+		"origin" "-861.9099731445 -1417.1800537109 -355.7300109863"
+		"angles" "0 56.5600013733 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\035__wh__shipping_yard_with_first_chopper_appearance.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Wallid 'Balrog The Master' Kanaan"
+		"synopsis" ""
+	}
+}

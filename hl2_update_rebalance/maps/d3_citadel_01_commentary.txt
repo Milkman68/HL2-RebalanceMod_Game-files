@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Citadel Casm"
+		"origin" "6442.5600585938 5142.490234375 -1200.3100585938"
+		"angles" "0 119.2200012207 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\102__ob__cliff_outside_citadel.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Jared 'ProJared' Knabenbauer"
+		"synopsis" ""
+	}
+}

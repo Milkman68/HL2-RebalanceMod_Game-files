@@ -45,13 +45,13 @@
 		"OnlyWhenVREnabled" "1"
 		"OnlyWhenVRActive" "1"
 	}
-//	"8" // Commentary mode doesn't seem to work for some reason.
-//	{
-//		"label"	"#GameUI_LoadCommentary"
-//		"command" "OpenLoadSingleplayerCommentaryDialog"
-//		"InGameOrder" "70"
-//	}
-//	"9" // Achivements too.
+	"8"
+	{
+		"label"	"#GameUI_LoadCommentary"
+		"command" "OpenLoadSingleplayerCommentaryDialog"
+		"InGameOrder" "70"
+	}
+//	"9"
 //	{
 //		"label" "#GameUI_GameMenu_Achievements"
 //		"command" "OpenAchievementsDialog"

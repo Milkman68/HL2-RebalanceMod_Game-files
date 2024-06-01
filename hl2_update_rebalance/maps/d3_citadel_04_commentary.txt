@@ -1,0 +1,33 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Bumpmaping"
+		"origin" "428.5799865723 -1599.0999755859 6434.58984375"
+		"angles" "0 -111.9400024414 0"
+		"precommands" "ai_disable"
+		"postcommands" "ai_disable"
+		"commentaryfile" "#commentary\107__ob__bumpmap_wall_after_room_with_energy_field.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Wallid 'Balrog The Master' Kanaan"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Citadel Alien Arhitecture"
+		"origin" "-1625.6899414063 -2587.5 6401.259765625"
+		"angles" "0 -134.1100006104 0"
+		"precommands" "ai_disable"
+		"postcommands" "ai_disable"
+		"commentaryfile" "#commentary\104__ob__before_elevator.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "James 'Caddicarus' Caddick"
+		"synopsis" ""
+	}
+}

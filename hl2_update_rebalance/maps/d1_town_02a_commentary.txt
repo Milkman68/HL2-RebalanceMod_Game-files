@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Game Sound"
+		"origin" "-5507.8598632813 2224.2800292969 -3254.1899414063"
+		"angles" "0 -169.5700073242 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\059__rvnhlm__graveyard.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Wallid 'Balrog The Master' Kanaan"
+		"synopsis" ""
+	}
+}

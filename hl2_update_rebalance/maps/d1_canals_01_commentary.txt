@@ -1,0 +1,33 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Metrocops assault"
+		"origin" "5.8000001907 -7377.7299804688 -95.7900009155"
+		"angles" "0 -143.7799987793 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\022__rk__stop_we_didnt_do_anything.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Wallid 'Balrog The Master' Kanaan"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Boxcar Vort"
+		"origin" "791.0599975586 2629.5200195313 -27.2700004578"
+		"angles" "0 -9.1099996567 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\024__rk__boxcar_joe.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ross Scott"
+		"synopsis" ""
+	}
+}

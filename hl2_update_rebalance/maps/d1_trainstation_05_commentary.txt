@@ -1,0 +1,78 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Kleiner Lab "
+		"origin" "-6579.3598632813 -1200.2900390625 35.4099998474"
+		"angles" "0 -169.3999938965 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\016__rld__kliners_main_lab.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Wallid 'Balrog The Master' Kanaan"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Mini Teleport "
+		"origin" "-6433.9501953125 -1252.5300292969 40.0600013733"
+		"angles" "0 -9.8400001526 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\018__rld__kliners_mini_teleport.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ross Scott"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "HEV Suit"
+		"origin" "-6510.3901367188 -1566.2800292969 28.8500003815"
+		"angles" "0 -119.4700012207 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\019__rld__first_time_with_hev_suit.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "James 'Caddicarus' Caddick"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Kleiner Lab 2"
+		"origin" "-6801.7099609375 -1518.3000488281 53.7799987793"
+		"angles" "0 -65.0699996948 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\017__rld__kliners_lab.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Jared 'ProJared' Knabenbauer"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Failed Teleport"
+		"origin" "-10728.08984375 -4665.91015625 227.9700012207"
+		"angles" "0 83.8300018311 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\020__rld__after_teleport_scene.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ian 'Brutalmoose' MacLeod"
+		"synopsis" ""
+	}
+}

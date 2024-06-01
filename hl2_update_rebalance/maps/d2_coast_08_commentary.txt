@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "The Bridge"
+		"origin" "3328.9399414063 -2632.4899902344 1568.6600341797"
+		"angles" "0 -144.7100067139 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\069__h17__under_the_bridge.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ian 'Brutalmoose' MacLeod"
+		"synopsis" ""
+	}
+}

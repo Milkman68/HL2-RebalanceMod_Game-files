@@ -1,0 +1,52 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Grav Gun"
+		"origin" "-447.4700012207 796.1199951172 -2657.919921875"
+		"angles" "0 44444.75 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\052__bme__when_given_grav_gun.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Mick 'Ricepirate' Lauer"
+		"synopsis" ""
+                                "connections"
+		{
+			"OnCommentaryStarted" "command_physcannon,command,ent_fire alyxvance disable,3,-1"
+		}
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "D0G"
+		"origin" "-1926.8499755859 -137.9100036621 -2646.0900878906"
+		"angles" "0 98.9300003052 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\053__bme__scrapyard_with_d0g.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Wallid 'Balrog The Master' Kanaan"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Ravenholm Tunel"
+		"origin" "-3090.2700195313 2720.4599609375 -2699.8500976563"
+		"angles" "0 89.9300003052 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\054__bme__tunnel_leading_to_ravenholm_after_attack.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Jared 'ProJared' Knabenbauer"
+		"synopsis" ""
+	}
+}

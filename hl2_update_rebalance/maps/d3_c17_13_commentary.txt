@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "City17 Destruction"
+		"origin" "5439.16015625 -684.7199707031 289.1199951172"
+		"angles" "0 -107.0699996948 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\101__ff__battle_before_horse.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Wallid 'Balrog The Master' Kanaan"
+		"synopsis" ""
+	}
+}

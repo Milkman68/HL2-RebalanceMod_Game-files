@@ -1,0 +1,33 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Level"
+		"origin" "7216.9399414063 246.8800048828 2158.8601074219"
+		"angles" "0 171.6600036621 0"
+		"precommands" "ai_disable"
+		"postcommands" "ai_disable"
+		"commentaryfile" "#commentary\103__ob_hallway_after_supercharged_grav_gun.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ross Scott"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Reflections"
+		"origin" "6487.5498046875 -149.7799987793 2149.919921875"
+		"angles" "0 -109.3899993896 0"
+		"precommands" "ai_disable"
+		"postcommands" "ai_disable"
+		"commentaryfile" "#commentary\108__ob__any_place_with_good_reflections.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Jared 'ProJared' Knabenbauer"
+		"synopsis" ""
+	}
+}

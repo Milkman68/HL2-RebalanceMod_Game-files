@@ -1,0 +1,48 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Cut Content"
+		"origin" "867.25 -6690.25 -704.1300048828"
+		"angles" "0 -169.2599945068 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\071__st__rollermine_house.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Wallid 'Balrog The Master' Kanaan"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Combine Tech"
+		"origin" "-118.8600006104 5218.2202148438 -427.6000061035"
+		"angles" "0 77.3300018311 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\072__st__combine_roadblock_before_battery_puzzle.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Jared 'ProJared' Knabenbauer"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Battery Puzzle Coast"
+		"origin" "10907.0302734375 8805.8603515625 -126.5299987793"
+		"angles" "0 139.3000030518 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\073__st__car_battery_puzzle.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ross Scott"
+		"synopsis" ""
+	}
+}

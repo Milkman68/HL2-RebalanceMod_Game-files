@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Crowbar Reunited"
+		"origin" "-9627.0400390625 -3394.2900390625 357.8500061035"
+		"angles" "0 -48.8499984741 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\021__rld__here_i_think_you_dropped_this_back_at_black_mesa.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Mick 'Ricepirate' Lauer"
+		"synopsis" ""
+	}
+}

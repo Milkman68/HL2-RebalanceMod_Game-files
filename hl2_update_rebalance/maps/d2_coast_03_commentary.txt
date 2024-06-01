@@ -1,0 +1,33 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "HL2 Seagulls "
+		"origin" "-3941.2399902344 -6153.3999023438 569.0399780273"
+		"angles" "0 22.9799995422 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\062__h17__outside_first_house_on_highway_17.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "James 'Caddicarus' Caddick"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "HL2 Ally NPC'S"
+		"origin" "7144.33984375 3895.8601074219 283.4899902344"
+		"angles" "0 82.2600021362 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\063__h17__entrance_to_new_little_odessa.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ian 'Brutalmoose' MacLeod"
+		"synopsis" ""
+	}
+}

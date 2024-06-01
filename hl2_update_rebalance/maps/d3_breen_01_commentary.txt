@@ -1,0 +1,40 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "BestGameOfAllTime"
+		"origin" "-909.7199707031 -7.6100001335 1388.0300292969"
+		"angles" "0 0.4099999964 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\109__de__with_alyx_before_final_scene.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ross Scott"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "ThanksForPlaying"
+		"origin" "-1049.0799560547 452.2699890137 1340"
+		"angles" "0 -92.8300018311 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\Extra_Filip_Victor_2.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Filip Victor // Lead Developer"
+		"synopsis" ""
+                                "connections"
+		{
+
+			"OnCommentaryStarted" "hide_stuff,command,ent_fire music_finalelevator fadeout 2,1,-1"
+                                                "OnCommentaryStarted" "hide_stuff,command,ent_fire music_finalelevator kill,3,-1"
+
+		}  
+}
+}

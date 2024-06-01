@@ -1,0 +1,33 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Level Design"
+		"origin" "-306.4299926758 1634.1099853516 405.2200012207"
+		"angles" "0 -50.6300010681 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\082__np__laundry_room.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Mick 'Ricepirate' Lauer"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Combine Wall"
+		"origin" "-2854.3200683594 -592.7800292969 630.5999755859"
+		"angles" "0 -163.4700012207 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\083__np__outside_with_crushing_walls.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Wallid 'Balrog The Master' Kanaan"
+		"synopsis" ""
+	}
+}

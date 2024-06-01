@@ -1,0 +1,48 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Zombies Design "
+		"origin" "2990.5500488281 -1151.7199707031 -1430.3499755859"
+		"angles" "0 343.9700012207 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\055__rvnhlm__bloody_shed_with_saw_blades.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ross Scott"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Black Headcrab"
+		"origin" "-227.6799926758 -750.1300048828 -1129.6400146484"
+		"angles" "0 -310.5100097656 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\057__rvnhlm__room_with_first_black_headcrabs.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ian 'Brutalmoose' MacLeod"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Ravenholm Traps"
+		"origin" "772.3400268555 6.9000000954 -1272.5100097656"
+		"angles" "0 339.5299987793 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\056__rvnhlm__grigori's_dropping_cars.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "James 'Caddicarus' Caddick"
+		"synopsis" ""
+	}
+}

@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Strider "
+		"origin" "-458.9299926758 4329.5698242188 169.6399993896"
+		"angles" "0 125.8799972534 0"
+		"precommands" "ai_disable"
+		"postcommands" "ai_disable"
+		"commentaryfile" "#commentary\099__ff__by_gate_before_first_big_strider_battle.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ian 'Brutalmoose' MacLeod"
+		"synopsis" ""
+	}
+}

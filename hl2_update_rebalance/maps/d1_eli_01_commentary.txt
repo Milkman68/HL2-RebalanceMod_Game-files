@@ -1,0 +1,78 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Black Mesa East"
+		"origin" "-588.0599975586 4222.169921875 -1373.9499511719"
+		"angles" "0 -129.2599945068 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\050__bme__elis_lab.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "James 'Caddicarus' Caddick"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Judith Mossman"
+		"origin" "-29.3700008392 2473.4799804688 -1249.0899658203"
+		"angles" "0 -88.4000015259 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\038__bme__before_elevator_ride_with_mossman.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "James 'Caddicarus' Caddick"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Cremator Head"
+		"origin" "489.7200012207 2014.7099609375 -2696.0600585938"
+		"angles" "0 -999.6599731445 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\039__bme__elis_lab_cremator_head.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ian 'Brutalmoose' MacLeod"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Eli Vance"
+		"origin" "617.0999755859 2266.2900390625 -2708.4099121094"
+		"angles" "0 16.6299991608 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\040__bme__elis_lab.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Mick 'Ricepirate' Lauer"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Alyx Vance "
+		"origin" "-622.450012207 1596.3499755859 -2689.2199707031"
+		"angles" "0 -108.4100036621 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\051__bme__hallway_between_lab_and_scrapyard.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ian 'Brutalmoose' MacLeod"
+		"synopsis" ""
+	}
+}

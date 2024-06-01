@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Source Pshy"
+		"origin" "9298.4599609375 8091.1000976563 -916.4099731445"
+		"angles" "0 135.9499969482 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\034__wh__washing_machine_elevator_ramp_puzzle.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Mick 'Ricepirate' Lauer"
+		"synopsis" ""
+	}
+}

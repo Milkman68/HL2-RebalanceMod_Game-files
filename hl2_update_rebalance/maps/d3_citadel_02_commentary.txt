@@ -1,0 +1,24 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Gunship Repair Bay"
+		"origin" "1541.5999755859 7113.6499023438 3038.5900878906"
+		"angles" "0 57.6199989319 0"
+		"precommands" "ent_fire sound_razortrain1_wheels kill"
+		"postcommands" ""
+		"commentaryfile" "#commentary\105__ob__on_pod_ride_when_seeing_gunship_repair_bays.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ian 'Brutalmoose' MacLeod"
+		"synopsis" ""
+                                "connections"
+		{
+
+			"OnCommentaryStarted" "voice_beta,command,ent_fire sound_razortrain2_wheels kill,3,-1"
+
+		}  
+}
+}

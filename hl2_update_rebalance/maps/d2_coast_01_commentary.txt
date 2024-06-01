@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Buggy"
+		"origin" "-7932.5200195313 -8719.1201171875 950.0800170898"
+		"angles" "0 118.1299972534 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\061__h17__by_buggy_on_pier.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ross Scott"
+		"synopsis" ""
+	}
+}

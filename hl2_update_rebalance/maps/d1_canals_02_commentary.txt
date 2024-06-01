@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Canals Details"
+		"origin" "2307.580078125 -599.3200073242 -617.7199707031"
+		"angles" "0 152.9100036621 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\023__rk__outdoors_junky_place_with_chopper.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Jared 'ProJared' Knabenbauer"
+		"synopsis" ""
+	}
+}

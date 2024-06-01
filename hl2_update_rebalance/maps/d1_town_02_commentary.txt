@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "FastZombie"
+		"origin" "1632.6800537109 -330.3099975586 -762.2700195313"
+		"angles" "0 -174.2799987793 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\058__rvnhlm__first_time_meeting_fast_zombie.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Mick 'Ricepirate' Lauer"
+		"synopsis" ""
+	}
+}

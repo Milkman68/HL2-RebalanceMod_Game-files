@@ -1,0 +1,48 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Alyx Animations"
+		"origin" "1990.0999755859 465.0799865723 -553.0900268555"
+		"angles" "0 -79.0800018311 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\084__ent__train_depot_with_alyx_first_door.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Jared 'ProJared' Knabenbauer"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Prisoner Pods"
+		"origin" "960.0300292969 319.299987793 -143.5500030518"
+		"angles" "0 -67.4400024414 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\085__ent__looking_at_pods_with_alyx.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ross Scott"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Game scenes"
+		"origin" "639.8400268555 142.1999969482 55.8800010681"
+		"angles" "0 39.7099990845 0"
+		"precommands" "ent_fire logic_choreographed_scene pause"
+		"postcommands" "ent_fire logic_choreographed_scene resume"
+		"commentaryfile" "#commentary\086__ent __eli_and_alyx_pod.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "James 'Caddicarus' Caddick"
+		"synopsis" ""
+	}
+}

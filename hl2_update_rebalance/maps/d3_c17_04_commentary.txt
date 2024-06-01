@@ -1,0 +1,18 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "GravGun Concept"
+		"origin" "-3937.9499511719 -3018.9299316406 35.1199989319"
+		"angles" "0 25.8799991608 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\094__acone__c17_hoppers.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Mick 'Ricepirate' Lauer"
+		"synopsis" ""
+	}
+}

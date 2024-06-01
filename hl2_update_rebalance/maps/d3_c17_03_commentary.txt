@@ -1,0 +1,48 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Missing Childrens"
+		"origin" "-4764.5498046875 -3572.4299316406 32.3699989319"
+		"angles" "0 101.8499984741 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\091__acone__playground_revisit.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ross Scott"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Collapsing Breencast"
+		"origin" "-2800.3200683594 -3005.5900878906 42.1399993896"
+		"angles" "0 53.7999992371 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\092__acone___revisiting_breencast_plaza.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "James 'Caddicarus' Caddick"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Civilians"
+		"origin" "-1542.2900390625 -3167.7900390625 38.1199989319"
+		"angles" "0 -65.4599990845 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\093__acone__right after breencast plaza.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ian 'Brutalmoose' MacLeod"
+		"synopsis" ""
+	}
+}

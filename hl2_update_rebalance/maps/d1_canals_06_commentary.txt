@@ -1,0 +1,33 @@
+"Entities"
+{
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Gman watch"
+		"origin" "4642.1000976563 6195.1000976563 -150.8600006104"
+		"angles" "0 82.6699981689 0"
+		"precommands" ""
+		"postcommands" ""
+		"commentaryfile" "#commentary\031__wh__barn_deck_next_to_gman.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ross Scott"
+		"synopsis" ""
+	}
+	"entity"
+	{
+		"classname" "point_commentary_node"
+		"targetname" "Canals NPC'S"
+		"origin" "-5327.419921875 -3289.1000976563 -310.4299926758"
+		"angles" "0 -149.6300048828 0"
+		"precommands" "start"
+		"postcommands" "end"
+		"commentaryfile" "#commentary\033__wh__hill_before_two_bridges_after_gman_screen.wav"
+		"viewtarget" ""
+		"viewposition" ""
+		"prevent_movement" 0
+		"speakers" "Ian 'Brutalmoose' MacLeod"
+		"synopsis" ""
+	}
+}

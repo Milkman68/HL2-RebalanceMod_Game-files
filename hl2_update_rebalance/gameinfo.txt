@@ -8,16 +8,15 @@
 	icon  "resource/icon"
 	FileSystem
 	{
-		SteamAppId				290930 // Mount hl2 Update
+		SteamAppId				290930 // This will mount all the GCFs we need (290930=HL2-Update).
 		SearchPaths
 		{
-			// Inherit already existing episodic-rebalanced content.
-			gamebin				|gameinfo_path|../hl2_rebalance/bin
-			game+mod			|gameinfo_path|../hl2_rebalance/hl2r_misc.vpk
-			
 			game+mod+mod_write+default_write_path		|gameinfo_path|.
+			gamebin				|gameinfo_path|../hl2_rebalance_base/bin_hl2
 			game+mod			|gameinfo_path|.
+			game+mod			|gameinfo_path|../hl2_rebalance_base/hl2r_misc.vpk
 			game+mod			|gameinfo_path|./custom/*
+
 
 			game_lv				|all_source_engine_paths|hl2/hl2_lv.vpk
 			game				|all_source_engine_paths|hl2/hl2_english.vpk

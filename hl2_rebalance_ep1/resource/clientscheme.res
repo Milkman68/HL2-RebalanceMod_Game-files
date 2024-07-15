@@ -806,8 +806,8 @@ Scheme
 	{
 		"1"		"resource/HALFLIFE2.ttf"
 		"2"		"resource/HL2crosshairs.ttf"
-		"3"		"resource/HL2EP1.ttf"	
-		"4"		"resource/hl2r.ttf"
+		"3"		"resource/HL2EP1.ttf"
+		"5"		"resource/hl2r.ttf"
 	}
 
 }

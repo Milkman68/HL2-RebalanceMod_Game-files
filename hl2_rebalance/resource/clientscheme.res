@@ -807,6 +807,7 @@ Scheme
 		"1"		"resource/HALFLIFE2.ttf"
 		"2"		"resource/HL2crosshairs.ttf"
 		"3"		"resource/hl2r.ttf"
+		"4"		"resource/lostcoast.ttf"
 	}
 
 }

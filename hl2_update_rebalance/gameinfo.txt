@@ -3,7 +3,7 @@
 	game 		"Half-Life 2: Update (Rebalanced)"
 	title 		"HALF-LIFE'"
 	type		singleplayer_only
-	supportsvr	1
+	supportsvr	0
 
 	icon  "resource/icon"
 	FileSystem

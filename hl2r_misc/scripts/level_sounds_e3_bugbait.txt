@@ -1,0 +1,181 @@
+//*********************************************************
+// E3_bugbait
+
+"e3_bugbait.alg_crashwall"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"1.0"
+	"soundlevel"  "SNDLVL_140dB"
+	"pitch"		"PITCH_NORM"
+
+	"wave"	"physics/metal/metal_large_debris1.wav"	
+}
+
+// This file lists all new sounds in HL2R. 
+
+// *******
+// WEAPONS
+
+// SLAM
+"Weapon_SLAM.SatchelThrow"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"0.7"
+	"soundlevel"  	"SNDLVL_75dB"
+
+	"wave"	"weapons/slam/throw.wav"
+}
+
+
+"Weapon_SLAM.TripMineMode"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"0.7"
+	"soundlevel"  	"SNDLVL_75dB"
+
+	"wave"	"weapons/slam/mine_mode.wav"
+}
+"Weapon_SLAM.SatchelDetonate"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"0.7"
+	"soundlevel"  	"SNDLVL_75dB"
+
+	"wave"	"weapons/slam/buttonclick.wav"
+}
+
+"TripmineGrenade.Place"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.95"
+	"soundlevel"  	"SNDLVL_70dB"
+	"wave"	"weapons/tripwire/hook.wav"
+}
+
+"TripmineGrenade.Activate"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.95"
+	"soundlevel"  	"SNDLVL_70dB"
+	"wave"	"weapons/tripwire/mine_activate.wav"
+}
+
+// Crossbow
+"Weapon_Crossbow.ChargeLoop"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"		"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"		"ambient/machines/electric_machine.wav"
+	
+}
+"Weapon_Crossbow.BoltPlace"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"0.2"
+	"pitch"			"60,75"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"		"physics/metal\metal_grenade_impact_hard2.wav"
+}
+
+// 357
+"Weapon_357.NPC_Single"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_110dB" // Louder than normal for gameplay purposes.
+	"pitch"			"88,93"	
+
+	"rndwave"
+	{
+		"wave"			"weapons/357/npc_357_fire.wav"
+	}
+}
+
+// *******
+// NPCs
+
+// Combine Solider
+"NPC_Combine.ShieldImpact"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_110dB"
+	"pitch"			"88,93"	
+
+	"rndwave"
+	{
+		"wave"			"npc/combine_soldier/shield_impact.wav"
+	}
+}
+
+"NPC_Combine.ShieldBreak"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_110dB"
+	"pitch"			"88,93"	
+
+	"rndwave"
+	{
+		"wave"			"npc/combine_soldier/shield_break.wav"
+	}
+}
+
+
+"NPC_Combine.ShieldRecharge"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_110dB"
+	"pitch"			"88,93"	
+
+	"rndwave"
+	{
+		"wave"			"npc/combine_soldier/shield_charge.wav"
+	}
+}
+
+// *******
+// HUD
+
+"HUDZoom.ZoomIn"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"common/zoomin.wav"
+}
+
+"HUDZoom.ZoomOut"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"common/zoomout.wav"
+}
+
+
+// *******
+// Music
+
+"song_d1_canals_13_boss"			// -1.5db
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.00000"
+	"pitch"			"100"
+
+	"soundlevel"	"0"
+
+	"wave"			"*#music/hl2r_song1.mp3"
+}

@@ -1,0 +1,20 @@
+"file_blacklist"
+{
+	"file"	"resource/gamemenu.res"
+	"file"	"resource/gamelogo.res"
+
+	"file"	"resource/game.ico"
+
+	"file"	"resource/halflife2.ttf"
+	"file"	"resource/hl2crosshairs.ttf"
+	"file"	"resource/hl2ep2.ttf"
+	
+	"file"	"cfg/config.cfg"
+	"file"	"cfg/config_default.cfg"
+	
+	
+	// I don't really know what these files do, as they're only present in older mappacks.
+	// They both seem to mess up the main menu though, so we have to get rid of them.
+	"file"	"cfg/valve.rc"				
+	"file"	"scripts/liblist.gam"
+}

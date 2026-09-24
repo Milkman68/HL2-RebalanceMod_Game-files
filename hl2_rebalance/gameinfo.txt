@@ -1,9 +1,12 @@
 "GameInfo"
 {
-	game 		"Half-Life 2 (Rebalanced)"
-	title 		"HALF-LIFE'"
+	game 		"Half-Life 2: Rebalanced"
+	title 		""
 	type		singleplayer_only
 	supportsvr	0
+
+	fixedgamelogo 	"resource/logos/gamelogo_hl2.res"
+	gametype		"0"
 
 	icon  "resource/icon"
 	FileSystem
@@ -11,21 +14,38 @@
 		SteamAppId				220		// This will mount all the GCFs we need (220=HL2).
 		SearchPaths
 		{
-			game+mod+mod_write+default_write_path		|gameinfo_path|.
-			gamebin				|gameinfo_path|../hl2_rebalance_base/bin_hl2
-			game+mod			|gameinfo_path|.
-			game+mod			|gameinfo_path|../hl2_rebalance_base/hl2r_misc.vpk
-			game+mod			|gameinfo_path|./custom/*
+			// Campaign Laucher
+			game+mod			|gameinfo_path|./campaign_launcher/mounted/*
+			game+mod			|gameinfo_path|./campaign_launcher/content_enabled/*
 
+			// HL2R Content
+			//
+			game+mod+mod_write+default_write_path		|gameinfo_path|.
+			gamebin				|gameinfo_path|bin/bin_hl2
+			game+mod			|gameinfo_path|.
+			game+mod			|gameinfo_path|./hl2r_misc.vpk
+			game+mod			|gameinfo_path|./custom/*\
+
+			// Hl2 Content
+			//
 			game_lv				|all_source_engine_paths|hl2/hl2_lv.vpk
 			game				|all_source_engine_paths|hl2/hl2_english.vpk
-			game				|all_source_engine_paths|hl2/hl2_pak.vpk
 			game				|all_source_engine_paths|hl2/hl2_textures.vpk
 			game				|all_source_engine_paths|hl2/hl2_sound_vo_english.vpk
 			game				|all_source_engine_paths|hl2/hl2_sound_misc.vpk
 			game				|all_source_engine_paths|hl2/hl2_misc.vpk
 			game				|all_source_engine_paths|hl2/resource
 			platform			|all_source_engine_paths|platform/platform_misc.vpk
+			game				|all_source_engine_paths|hl2/hl2_pak.vpk
+
+			// Lostcoast Content
+			//
+		//	game				|all_source_engine_paths|lostcoast/lostcoast_sound_vo_english.vpk
+		//	game				|all_source_engine_paths|lostcoast/lostcoast_pak.vpk
+			
+			// Hl2 anniversary content
+			//
+			game				|all_source_engine_paths|hl2_complete/hl2_complete_misc_dir.vpk
 
 			game				|all_source_engine_paths|hl2
 			platform			|all_source_engine_paths|platform

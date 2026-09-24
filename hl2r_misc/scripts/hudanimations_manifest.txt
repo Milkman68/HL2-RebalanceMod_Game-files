@@ -1,0 +1,4 @@
+"hudanimations_manifest.txt"
+{
+	"file"		"scripts/hudanimations.txt"
+}

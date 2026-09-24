@@ -1,0 +1,4 @@
+"hudlayout_manifest.txt"
+{
+	"file"		"scripts/hudlayout.res"
+}

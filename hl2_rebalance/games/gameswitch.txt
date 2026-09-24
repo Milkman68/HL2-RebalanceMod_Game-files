@@ -1,0 +1,30 @@
+"GameSwitch"
+{
+	"GameTypes"
+	{
+		"0"		"games\hl2"
+		"1"		"games\ep1"
+		"2"		"games\ep2"
+		"3"		"games\lostcoast"
+	}
+	
+	"Blacklist"
+	{
+		"0"		"config.cfg"
+		"1"		"config_default.cfg"
+		
+		"2"		"hl2r.ttf"
+		"3"		"icon.ico"
+		"4"		"icon.tga"
+		"5"		"icon_big.tga"
+
+		"6"		"skill_manifest_1.cfg"
+		"7"		"skill_manifest_2.cfg"
+		"8"		"skill_manifest_3.cfg"
+
+		"9"		"skill_base.cfg"
+		"10"	"skill_1.cfg"
+		"11"	"skill_2.cfg"
+		"12"	"skill_3.cfg"
+	}
+}

@@ -1,0 +1,80 @@
+WeaponData
+{
+	AnimSpeed
+	{
+		"ACT_VM_DRAW"		"1.4"
+	}
+	TextureData
+	{
+		"crosshair"
+		{
+				"file"		"sprites/hl2r_crosshairs"
+				"x"			"96"
+				"y"			"288"
+				"width"		"96"
+				"height"	"96"
+				"scale"		"0.7"
+		}
+		"autoaim"
+		{
+				"file"		"sprites/hl2r_crosshairs"
+				"x"			"96"
+				"y"			"288"
+				"width"		"96"
+				"height"	"96"
+				"scale"		"0.7"
+		}
+	}
+	ShotRegulator
+	{	
+		// ==============================================================
+		// DIFFICULTY:			[EASY]			[NORMAL]		[HARD]
+		// ==============================================================
+
+		"firerate_scale"		"1.0			1.0				1.0"		// How much to scale the weapon's firerate
+		"shot_count"			"1	 1			1	1			1	1"		// Min-max amount of shots in a burst
+		"burst_time"			"1.5 1.75		1.0 1.5			0.75 1.25"	// Min-max time between bursts
+		"spread_scale"			"good			good			good"	// How much to scale the weapon's spread.
+
+		"enemies"
+		{	
+		// ==============================================================
+		// Metrocops
+		// ==============================================================
+			"tier_1" 
+			{
+				"spread_scale"	"average		average		average"
+			}
+		// ==============================================================
+		// Combine Soldiers / Metrocop Elites
+		// ==============================================================
+			"tier_2" 
+			{
+			}
+		// ==============================================================
+		// Combine Elites
+		// ==============================================================
+			"tier_3" 
+			{
+				"spread_scale"	"very_good		very_good			very_good"
+			}
+		}
+		"companions"
+		{	
+		// ==============================================================
+		// Citizens
+		// ==============================================================
+			"tier_1" 
+			{
+				"spread_scale"	"average		average				average"
+			}
+		// ==============================================================
+		// Essential Allies
+		// ==============================================================
+			"tier_2"
+			{
+				"spread_scale"	"very_good		very_good			very_good"
+			}
+		}
+	}
+}

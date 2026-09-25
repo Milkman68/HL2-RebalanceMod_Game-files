@@ -1,35 +1,9 @@
 # HL2 Rebalanced
-The repository for downloading the mod.
+The Github Repository for the Sourcemod portion of the mod.
 The Sourcecode can be found [here](https://github.com/mariovct/HL2-RebalanceMod).
 
-## ============Description:============
-HL2R is a mod that changes the gameplay and balance of Half-Life 2. Featuring: 
-
-- Revamped Gunplay.
-- Smarter and more varied enemies.
-- Various small additions and Bug fixes.
-- Visual effects and dynamic lights.
-- Grenade Cooking and other QOL additions.
-- New challenges menu with 7 original challenges.
-- Episode 2 style flashlight and other toggleable features.
-- A more modular skill.cfg system.
-- Separate version that merges [HL2 Mirrored](https://www.moddb.com/mods/half-life-2-mirrored) with HL2R. Allowing for both mods to be played together.
-- ~~S.L.A.M.~~
-  
-
-This mod is not intended to radically alter HL2's gameplay, but to improve and enhance it wherever possible. With the ultimate goal of replicating the challenging but fair gameplay of HL1, which HL2 was very much lacking in my opinion. 
-
-It aims to make enemies actual threats that should be respected, give all weapons in the player's arsenal use throughout the whole game instead of some becoming completely obsolete, and force the player to put more than surface-level amounts of effort and strategy into making it through the default campaign.
-
-## ============Installation:============
-
-To install the mod, click on the green button on the top right corner that says ***Code*** then click ***Download Zip***  
-Once the zip is done downloading, open it and extract just the files into your sourcemods directory in ***Steam/steamapps/sourcemods/***
-
-From there restart Steam and ***Half-Life 2 (Reblanced)*** as well as the episodes should appear in your library.
-
-### Mirrored version:
-The HL2 Mirrored patch for HL2R can be accessed by clicking on the ***main*** icon on the top-left of the page and switching to the ***Mirrored*** branch. Or if you don't feel like doing that here's a link to it [directly](https://github.com/mariovct/HL2-RebalanceMod_Game-files/tree/Mirrored). From there just download the Mirrored version and follow the standard installation instructions.
+============What is this?============
+This repository is just for keeping a backup of the indev-Sourcemod files for HL2R. The main vpk is uncompiled, so you need to use vpk.exe on it if you're planning on running a download of this. Downloading HL2R from the Moddb page is recommended.
 
 ## ============Credits:============
 - Valve For making the Source SDK.

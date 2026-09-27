@@ -14,6 +14,7 @@
 *.tmp
 *.log
 *.dt
+*.pdb
 hl2_rebalance/stats.txt
 hl2_rebalance/gamestate.txt
 hl2_rebalance/cfg/server_blacklist.txt

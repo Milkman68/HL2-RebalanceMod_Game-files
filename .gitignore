@@ -11,10 +11,10 @@
 *.hl3
 *.kv
 *.lnk
-hl2_rebalance/voice_ban.dt
+*.tmp
+*.log
+*.dt
 hl2_rebalance/stats.txt
 hl2_rebalance/gamestate.txt
-hl2_rebalance/console.log
 hl2_rebalance/cfg/server_blacklist.txt
-hl2_rebalance/demoheader.tmp
 hl2_rebalance/cfg/config.cfg
